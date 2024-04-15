@@ -15,16 +15,6 @@ This is a real-time chat application built using Flutter and Firebase. The app f
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-Before you begin, ensure you have the following tools installed on your development machine:
-
-- [Flutter](https://flutter.dev/docs/get-started/install)
-- [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/)
-- An IDE with Flutter SDK set up
-
-### Installation
-
 1. **Clone the repository:**
 
    ```bash
